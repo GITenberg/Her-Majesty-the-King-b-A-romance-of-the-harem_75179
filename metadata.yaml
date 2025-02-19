@@ -1,0 +1,44 @@
+_repo: Her-Majesty-the-King-b-A-romance-of-the-harem_75179
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Herford, Oliver
+    alias: Herford, O. (Oliver)
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '24852'
+    url: http://www.gutenberg.org/2009/agents/24852
+    wikipedia: https://en.wikipedia.org/wiki/Oliver_Herford
+creator:
+  author:
+    agent_name: Roche, James Jeffrey
+    alias: Roche, Jeffrey
+    birthdate: 1847
+    deathdate: 1908
+    gutenberg_agent_id: '42337'
+    url: http://www.gutenberg.org/2009/agents/42337
+    wikipedia: https://en.wikipedia.org/wiki/James_Jeffrey_Roche
+description: ''
+gutenberg_issued: '2025-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75179'
+  lccn: 02028761
+language: en
+pgterms:marc904: https://archive.org/details/hermajestykingr00rochiala/page/n3/mode/2up
+pgterms:marc905: 20230810182355roche
+pgterms:marc906: '1898'
+pgterms:marc907: en
+production_note: Bob Taylor, David Edwards and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bR. H. Russell, $c1898, copyright 1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Harems -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Her Majesty the King : $b A romance of the harem'
+url: http://www.gutenberg.org/ebooks/75179
