@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '24852'
     url: http://www.gutenberg.org/2009/agents/24852
     wikipedia: https://en.wikipedia.org/wiki/Oliver_Herford
+covers:
+- cover_type: archival
+  image_path: 75179-h/images/cover.jpg
 creator:
   author:
     agent_name: Roche, James Jeffrey
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42337
     wikipedia: https://en.wikipedia.org/wiki/James_Jeffrey_Roche
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75179#Her-Majesty-the-King-b-A-romance-of-the-harem
 gutenberg_issued: '2025-01-22'
 gutenberg_type: Text
 identifiers:
